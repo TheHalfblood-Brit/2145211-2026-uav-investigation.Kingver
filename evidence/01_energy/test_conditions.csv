@@ -1,0 +1,7 @@
+run_id,payload_g,wind_m_s,configuration,record_status,notes,metadata_provenance
+E01,600,3,CASE-A,complete_interval,Logged mapping interval ended normally.,synthetic_case_R2; E01_E02_E03_conditions_preserved; remaining_details_newly_authored
+E02,600,3,CASE-A,complete_interval,Second run of the same configuration.,synthetic_case_R2; E01_E02_E03_conditions_preserved; remaining_details_newly_authored
+E03,600,6,CASE-A,complete_interval,Logged mapping interval ended normally.,synthetic_case_R2; E01_E02_E03_conditions_preserved; remaining_details_newly_authored
+E04,300,3,CASE-A,complete_interval,Logged mapping interval ended normally.,synthetic_case_R2; E01_E02_E03_conditions_preserved; remaining_details_newly_authored
+E05,600,3,CASE-A,partial_interval,Logging ended after 600 seconds; remaining interval unavailable.,synthetic_case_R2; E01_E02_E03_conditions_preserved; remaining_details_newly_authored
+E06,900,3,CASE-A,complete_interval,Logged mapping interval ended normally.,synthetic_case_R2; E01_E02_E03_conditions_preserved; remaining_details_newly_authored
